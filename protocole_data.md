@@ -33,6 +33,21 @@ TODO : configurer l'accès au répertoire
 
 - Utilisation de GliNER : https://github.com/urchade/GLiNER
 
+#### Objectif 4 : cadrage sur différents lieux
+
+**Objectif** : coder comment on aborde différent lieux
+
+Démarche :
+
+- liste des entités d'intérêt {"Entité d'intérêt":["forme1", "forme2", ...], ...}
+- extraction des phrases les mentionnant : premier document de phrases à checker
+  - couper les textes à l'échelle des points et garder que les phrases mentionnant les entités
+- survol des phrases et amélioration des règles de filtrage
+- corpus de phrases d'intérêt
+- définition d'une grille de codage : qu'est-ce qui est codé pour chaque phrase ?
+- codage des phrases
+- statistiques sur les distributions + évolutions temporelles
+
 ## Bibliographie
 
 - Lire papier GéoLM : https://arxiv.org/abs/2310.14478
