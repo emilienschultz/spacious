@@ -25,6 +25,15 @@ TODO : configurer l'accès au répertoire
 
 **Objectif** : identifier les articles qui mentionnent la "vallée" (évolution dans le temps, proportion, ...)
 
+- Manipulation des données avec Pandas
+
 #### Objectif 2 : entités géographiques
 
 **Objectif**: identifier toutes les entités géographiques des textes
+
+- Utilisation de GliNER : https://github.com/urchade/GLiNER
+
+## Bibliographie
+
+- Lire papier GéoLM : https://arxiv.org/abs/2310.14478
+- Kalin Kopanov. 2024. Comparative Performance of Advanced NLP Models and LLMs in Multilingual Geo-Entity Detection. In Proceedings of the Cognitive Models and Artificial Intelligence Conference (AICCONF '24). Association for Computing Machinery, New York, NY, USA, 106–110. https://doi.org/10.1145/3660853.3660878
