@@ -1,5 +1,15 @@
 # Protocole d'analyse des données
 
+## Bonnes pratiques
+
+### Utiliser git/github
+
+Pour cloner le répertoire, utiliser `git clone https://github.com/emilienschultz/spacious.git`
+
+Pour mettre à jour `git pull`
+
+TODO : configurer l'accès au répertoire
+
 ## Europresse
 
 ### Mise en forme du corpus
